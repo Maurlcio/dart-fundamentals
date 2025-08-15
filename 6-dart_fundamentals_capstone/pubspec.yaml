@@ -1,0 +1,9 @@
+name: packages
+description: "Packages necessary for fundamentals capstone project"
+
+dependencies:
+  intl: any
+  characters: any
+
+environment:
+  sdk: '^3.8.0'
